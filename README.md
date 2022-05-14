@@ -2,7 +2,7 @@
     
   Đỗ Duy Long
     
-      - Giao diện sử dụng
+      - Giao diện 
       - Cấu hình project sử dụng ide Spring Tool Suite 4 
       - Fix các lỗi 
       - Đẩy code lên github 
